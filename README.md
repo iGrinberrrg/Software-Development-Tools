@@ -17,3 +17,7 @@ Technologies and Libraries Used:
 - Plotly Express: Used to create interactive plots such as histograms and scatter plots.
 - Pandas: Used for data manipulation and filtering based on user input.
 
+Installation Instructions
+- Clone the repository: git clone https://github.com/iGrinberrrg/Sprint06.git
+- Install the required dependencies: pip install streamlit plotly pandas
+- Run the application: streamlit run app.py
